@@ -2,9 +2,9 @@
 Forecasting the movement of the world and economy with special regard to the growth of Artificial Intelligence and Modern Mercantilism
 
 ## Outline
-The following submission is regarding a forecasting competition hosted by Global Citizen and Bridgewater Associates. The competition involved assessing how the "rise of Modern Mercantilism is redrawing the rules of trade, policy, and power. Artificial Intelligence is rewriting what economies, governments, and people can do". With this in mind, I drew out 12 forecasts that express my current view on how Artificial Intelligence and Mercantilism will play overlapping roles in how world events will play out in the near and long future. My submission itself contains the forecasts, expository writing connecting the forecasts together to create a bigger picture of the timeline that will ensue, and an appendix that explains my method for achieving some of the probabilities I achieved. In this repository, I have some of the models I used to actually get to the probabilities. <br/><br/>
+The following submission is regarding a forecasting competition hosted by Global Citizen and Bridgewater Associates. The competition involved assessing how the "rise of Modern Mercantilism is redrawing the rules of trade, policy, and power. Artificial Intelligence is rewriting what economies, governments, and people can do". With this in mind, I drew out 12 forecasts that express my current view on how Artificial Intelligence and Mercantilism will play overlapping roles in how world events will play out in the near and long future. My submission itself contains the forecasts, expository writing connecting the forecasts together to create a bigger picture of the timeline that will ensue, and an appendix that explains my method for achieving some of the probabilities I achieved. In this repository, I have some of the models I used to actually get to the probabilities. <br/>
 
-*Note on AI used: While the selection of the model, its design, and parameters were chosen by me, the coding of the models were all done by Claude Code. Therefore, the models are by no means indicative of my programming abilities.* <br/>
+*Note on AI used: While the selection of the model, its design, and parameters were chosen by me, the coding of the models were all done by Claude Code. Therefore, the uploads on this GitHub repository, such as the Python code and the graphs created, are from Claude Code directly. Thus, the models are by no means indicative of my programming abilities.* <br/> <br/>
 
 ## Forecasts
 F1:There is a 45% chance of professional & Business Services employment falling below its fixed pre-2020 (2010–2019) trend for at least 12 consecutive months at some point before end-2035.<br/>
@@ -29,6 +29,20 @@ F10: There is a 16% chance that China achieves volume indigenous production of 5
 
 F11: There is an 84% chance that China's general-public-budget deficit-to-tax-revenue ratio exceeds 40% in any year 2026–2028.<br/>
 
-F12: There is a 9% chance that China onshore corporate bond defaults exceed 60 defaulting issuers in calendar year 2027.<br/>
+F12: There is a 9% chance that China onshore corporate bond defaults exceed 60 defaulting issuers in calendar year 2027.<br/><br/> 
 
 
+## Synthesis of Thesis
+- The contrarian aspect: The market has the fragility backwards. It prices the US AI boom as the sturdy, self-financing story and China's debt-laden build-out as the coming crisis. We argue the reverse through 2028 wherein China's debt is the absorbable kind, while the US carries the mispriced, credit-financed fragility.
+
+- Why the US is fragile: AI is capital-intensive and labor-light, so unlike a factory it does not yet pay for itself and must be continuously refinanced from outside. With ~$700bn spent and the global savings glut reversing, capital is getting scarce and expensive exactly as this un-self-financing bet comes due, turning disappointing returns into a financial problem before a productivity one.
+
+- The earliest tell is white-collar labor: Professional and business services employment falling below trend signals displacement without the offsetting new work past tech cycles produced, the cost of the AI transition arriving without the benefit.
+
+- Why the Fed won't help this time: The market assumes the post-2008 reflex (cut rates, expand the balance sheet). A Warsh-led Fed is unlikely to deploy the balance-sheet backstop that actually contains modern crises, sharpening the strain rather than cushioning it.
+
+- Why China absorbs rather than breaks: China rhymes with post-bubble Japan: high domestic savings, debt owed inward and trapped behind capital controls, so it grinds into stagnation rather than detonating into crisis. Real but managed stress, not the acute blowup the market prices, durable but stressed, not triumphant.
+
+- The escalation loop: A straining US facing a durable China escalates on the one axis it controls, chips. But each export-control tightening pushes China harder into self-sufficiency (SMIC/Huawei), which if it succeeds even partially proves the durability and invites still tighter controls, a mercantilist ratchet neither side can stop.
+
+- The resolution and the bet: By end-2028 the split is US acute fragility (credit, rates, politics) vs China chronic drag (demographics, deflation, stagnation), but neither consensus bet lands: China's debt blowup doesn't arrive and the US productivity payoff comes late if at all. The investment implication is resilience over concentration: step back from the crowded US-AI-equity trade, against the China-crisis short, toward real assets and geographic spread.
